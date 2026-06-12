@@ -54,6 +54,15 @@ nav a, nav a:visited{
 	color: black;
 }
 
+h1 {
+	/* font-size: 8.8vh;
+	line-height: 7.2vh; */
+	padding: 4vh 0;
+	font-family: sans-serif;
+	text-align: center; 
+	border-radius: 50px;
+}
+
 article {
 	width: 80%;
 	margin-left: 10%;
@@ -64,8 +73,6 @@ h1{
 	color: #6c584c;
     height: 10vh;
     text-align: center;
-	padding: 4vh 0;
-	border-radius: 50px;
 	font-family: Concert One, sans-serif;
 	font-size: 7.5vh;
 	line-height: 10vh; 
