@@ -54,15 +54,6 @@ nav a, nav a:visited{
 	color: black;
 }
 
-/* h1 {
-	/* font-size: 8.8vh;
-	line-height: 7.2vh; */
-	padding: 4vh 0;
-	font-family: sans-serif;
-	text-align: center; 
-	border-radius: 50px;
-} */
-
 article {
 	width: 80%;
 	margin-left: 10%;
@@ -72,11 +63,12 @@ article {
 h1{
 	color: #6c584c;
     height: 10vh;
+	padding: 4vh 0;
     text-align: center;
 	font-family: Concert One, Chiron GoRound TC, sans-serif;
 	font-size: 7.5vh;
 	line-height: 10vh; 
-
+	border-radius: 50px;
 }
 
 figure{
